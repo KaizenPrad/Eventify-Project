@@ -6,7 +6,6 @@ export type EventItems = {
   date:string;
   time:string;
 }
-
 export const events: EventItems[] = [
   {
     title: "React Summit 2026",
